@@ -25,7 +25,7 @@ To run this project:
 
 ## Acknowledgments
 
-Special thanks to Baixu Chen et al. for their groundbreaking work in semi-supervised learning, which inspired this project.
+Special thanks to Baixu Chen, Junguang Jiang, Ximei Wang, Pengfei Wan and Jianmin Wang at Tsinghua University for their groundbreaking work in semi-supervised learning, which inspired this project.
 
 ## License
 
